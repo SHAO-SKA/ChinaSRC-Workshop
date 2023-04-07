@@ -1,0 +1,34 @@
+	1. An, Wu, Hong. SKA data take centre stage in China. Nat Astron, 2019, Vol. 3, p. 1030
+	2. T. An, et al. Status and progress of China SKA Regional Centre prototype. Sci. China-Phys. Mech. Astron. 65: 129501 (2022)
+
+	@ARTICLE{2019NatAs...3.1030A,
+		author = {{An}, Tao and {Wu}, Xiang-Ping and {Hong}, Xiaoyu},
+			title = "{SKA data take centre stage in China}",
+		journal = {Nature Astronomy},
+			year = 2019,
+			month = nov,
+		volume = {3},
+			pages = {1030-1030},
+			doi = {10.1038/s41550-019-0943-4},
+		adsurl = {https://ui.adsabs.harvard.edu/abs/2019NatAs...3.1030A},
+		adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+	}
+
+	@ARTICLE{2022SCPMA..6529501A,
+		author = {{An}, Tao and {Wu}, Xiaocong and {Lao}, Baoqiang and {Guo}, Shaoguang and {Xu}, Zhijun and {Lv}, Weijia and {Zhang}, Yingkang and {Zhang}, Zhongli},
+			title = "{Status and progress of China SKA Regional Centre prototype}",
+		journal = {Science China Physics, Mechanics, and Astronomy},
+		keywords = {Astrophysics - Instrumentation and Methods for Astrophysics},
+			year = 2022,
+			month = dec,
+		volume = {65},
+		number = {12},
+			eid = {129501},
+			pages = {129501},
+			doi = {10.1007/s11433-022-1981-8},
+	archivePrefix = {arXiv},
+		eprint = {2206.13022},
+	primaryClass = {astro-ph.IM},
+		adsurl = {https://ui.adsabs.harvard.edu/abs/2022SCPMA..6529501A},
+		adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+	}
