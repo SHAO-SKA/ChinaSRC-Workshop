@@ -11,9 +11,11 @@
    :caption: Contents:
   
    docs/copyright/index.rst
+   docs/connect/index.rst
    docs/introduction/intro.rst
-   docs/git/index.rst
    docs/users/index.rst
+   docs/git/index.rst
+   docs/dataprocessing/index.rst
 
 Indices and tables
 ==================
