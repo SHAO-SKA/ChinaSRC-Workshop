@@ -1,31 +1,56 @@
-# ChinaSRC-P workshop
-
-中国SKA区域中心原型机(China SKA Regional Centre Prototype)研讨会
-
-## Purpose
-
-This workshop will offer a range of in-person training, online documents, and activities to help you best use ChinaSRC-P resources: Super Computer, Big Data, Astronomy software and tools.
-
-## Pre-requirements
-
-首先需要初步掌握源码管理的操作， 参考
+# ChinaSRC-P Workshop
 
 
-## 
+
+:art: 中国SKA区域中心原型机(China SKA Regional Centre Prototype，ChinaSRC-P)研讨会 :construction: 
 
 
-Who should attend user training?
-We recommend that current and future users of Pawsey’s computational resources - 
-particularly users of Setonix and Acacia - attend user training to most effectively and efficiently use Pawsey resources.
 
-Are there pre-requisites to user training?
-Some course have specific pre-requisites or skills to attend the training. Those pre-requisites will be noted. Additionally:
+## 目的
 
-All course attendees: Require basic computer literacy, such as familiarity with the command line/Linux.
-Advanced/Developer courses: Typically require experience programming in C/C++ or Fortran.
-Can a training be tailored to my group?
-Much Pawsey training is relevant across scientific domains. This is called 'generic' training.
 
-However, some training is best tailored to the application within a specific domain. This is called 'bespoke' training.
 
-To partner with Pawsey to create bespoke learning experiences for a large audience, please contact training@pawsey.org.au. 
+研讨会需要一定的编程基础（C和Python），并提供线下培训，在线文档，答疑环节，以帮助用户更方便高效地使用ChinaSRC-P的资源，这些资源包括但不限于：异构计算节点、大容量存储、胖节点、大数据处理、天文软件和工具。
+
+
+
+## 培训方式
+
+- 培训报告
+- 线下交流
+- 线上文档
+- 交流答疑
+
+## 前提条件
+
+需要初步掌握以下工具和软件：
+
+- git 源码管理
+- linux 基本命令
+- c/python编程语言
+
+
+
+## 参加人员::
+
+我们建议现在或将来可能使用到ChinaSRC资源的老师、同学都来参加。
+
+
+
+## 初步培训:sparkles:
+
+- git 入门培训
+- linux 入门培训
+- c/python 入门培训
+- HPC 入门培训
+- ChinaSRC-P 培训
+
+## 进阶培训:tada:
+
+- 专门针对SKA特定的数据处理开展，需要初步培训的知识
+
+
+
+
+
+:bug:任何建议请提交PR或者邮件shaoska@shao.ac.cn 
