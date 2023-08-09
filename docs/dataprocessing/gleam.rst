@@ -1,6 +1,6 @@
 .. _gleam-data-processing:
 
-GLEMA数据处理
+GLEAM数据处理
 =================================
 
 准备处理数据
@@ -11,7 +11,7 @@ GLEMA数据处理
     # 创建数据工作目录
     $ mkdir tests
     # 选定1组数据，修改代码obsid
-    $ cp ~/share/workshop2023/datasets/obsid.tar.gz ~/tests/
+    $ cp /groups/workshop2023/home/share/datasets/obsid.tar.gz ~/tests/
 
     # 解压数据
     $ mkdir obsid
@@ -25,9 +25,9 @@ GLEMA数据处理
 
     $ mkdir ~/GLEAM-X-pipeline
     # 准备数据库
-    $ cp -rv ~/share/workshop2023/GLEAM-X-pipeline/data ~/GLEAM-X-pipeline/
+    $ cp -rv /groups/workshop2023/home/share/GLEAM-X-pipeline/data ~/GLEAM-X-pipeline/
     # 导入环境变量，每次打开新的shell窗口都需要执行
-    $ source ~/share/workshop2023/setting/GLEAM-X-pipeline-ChinaSRC.profile
+    $ source /groups/workshop2023/home/share/setting/GLEAM-X-pipeline-ChinaSRC.profile
 
 
 数据处理
