@@ -30,10 +30,10 @@ Prototype，ChinaSRC-P)研讨会 :construction:
 
 -  git
 -  安装 `anaconda <https://www.anaconda.com/download>`__
+-  安装 `Pycharm <https://www.jetbrains.com/pycharm/download/>`__
 -  Windows用户安装远程连接工具，推荐xshell或\ `MobaXterm <https://mobaxterm.mobatek.net/>`__.
 -  FTP工具，推荐\ `Filezilla <https://filezilla-project.org/download.php?type=client>`__
--  文本编辑器，推荐\ `Visual Studio
-   Code <https://code.visualstudio.com/>`__
+-  文本编辑器，推荐\ `Visual Studio Code <https://code.visualstudio.com/>`__
 
 参加人员::
 ----------
