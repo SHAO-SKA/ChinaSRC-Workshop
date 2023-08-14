@@ -2,7 +2,7 @@ ChinaSRC-P Workshop
 ===================
 
 :art: 中国SKA区域中心原型机(China SKA Regional Centre
-Prototype，ChinaSRC-P)研讨会 :construction: :link: [2023年研讨会在线文档](https://chinasrc-workshop.readthedocs.io/en/latest/)
+Prototype，ChinaSRC-P)研讨会 :construction: :link: 2023年研讨会在线文档参考 https://chinasrc-workshop.readthedocs.io/en/latest/ 。
 
 目的
 ----
@@ -39,6 +39,7 @@ Prototype，ChinaSRC-P)研讨会 :construction: :link: [2023年研讨会在线�
 ----------
 
 我们建议现在或将来可能使用到ChinaSRC资源的老师、同学都来参加。
+并同时完成对 :ref:`users` 的更新。
 
 初步培训:sparkles:
 ------------------
