@@ -11,10 +11,13 @@
    :caption: Contents:
   
    docs/copyright/index.rst
+   README.rst
+   docs/schedule/intro.rst
    docs/connect/index.rst
    docs/introduction/intro.rst
-   docs/users/index.rst
+   users.rst
    docs/git/index.rst
+   docs/python/index.rst
    docs/dataprocessing/index.rst
 
 Indices and tables
