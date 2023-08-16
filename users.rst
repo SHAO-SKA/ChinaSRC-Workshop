@@ -10,5 +10,5 @@
    :widths: 10, 20, 20, 20, 20
 
    1, Shaoguang, @shaoguangleo, 中国科学院上海天文台, None
-   2, xxxxxx, xxxxxxxxx, xxxxxxxxx, xxxxxx
+   2, XuechenZh, @zhengxc2022, SHAO, None
    3, xxxxxx, xxxxxxxxx, xxxxxxxxx, xxxxxx
