@@ -17,4 +17,5 @@ Python
     :maxdepth: 1
 
     install.rst
+    demos.rst
     
